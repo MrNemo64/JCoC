@@ -1,4 +1,4 @@
-package me.nemo_64.jcoc.entity;
+package me.nemo_64.jcoc.entity.level;
 
 import java.util.Optional;
 
